@@ -5,7 +5,7 @@ This repository contains the final project code and environment
 The link to the Project Overview can be found here : [Project Overview](https://github.com/cu-ecen-aeld/final-project-ishassharmaa/wiki/Project-Overview)
 
 # Project Schedule 
-The link to the Project Schedule can be found here : [Project Schedule](https://github.com/cu-ecen-aeld/final-project-ishassharmaa/wiki/Project-Schedule)
+The link to the Project Schedule can be found here : [Project Schedule](https://github.com/users/ishassharmaa/projects/1/views/1)
 
 # Team Members
 1. Isha Sharma
