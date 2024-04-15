@@ -1,3 +1,5 @@
+//Reference: https://olegkutkov.me/2017/08/10/mlx90614-raspberry/
+
 #include <sys/ioctl.h>
 #include <sys/types.h>
 #include <sys/stat.h>
