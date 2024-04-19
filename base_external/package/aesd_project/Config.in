@@ -1,0 +1,4 @@
+config BR2_PACKAGE_AESD_PROJECT
+	bool "aesd_project"
+	help
+	  Includes I2C and socket code for RPi
